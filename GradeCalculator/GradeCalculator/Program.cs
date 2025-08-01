@@ -8,7 +8,7 @@ namespace GradeCalculatorApp
         {
             Console.WriteLine("GRADE CALCULATOR");
             Console.Write("Please enter a score between 0 and 100: ");
-
+            
             if (int.TryParse(Console.ReadLine(), out int score))
             {
                 string grade = GetLetterGrade(score);

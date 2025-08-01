@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\TriangleTypeIdentifier.exe.config
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\TriangleTypeIdentifier.exe
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\TriangleTypeIdentifier.pdb
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.exe
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.pdb

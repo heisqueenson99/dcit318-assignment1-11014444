@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.pdb
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.exe
+C:\Users\USER\Documents\GitHub\dcit318-assignment1-11014444\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.pdb
